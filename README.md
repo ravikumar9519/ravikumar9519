@@ -1,7 +1,7 @@
 # Hi there, I'm Ravi Bharti! 👋
 
 I'm a passionate **Full-Stack Web Developer**, **SDE Intern @InsuranceDekho**, and **Competitive Programmer** from India 🇮🇳.
-# [Resume]()https://drive.google.com/file/d/12_rfUHpaTkHWIZ5BT8t5NfmXX8t2KoiY/view?usp=drivesdk
+# [Resume](https://drive.google.com/file/d/12_rfUHpaTkHWIZ5BT8t5NfmXX8t2KoiY/view?usp=drivesdk) 
 
 ---
 
